@@ -1,10 +1,16 @@
-const a =100;
+const a = "Hi there";
 
 
 const myFunc = () => {
   
   
 }
+
+
+
+
+
+
 
 
 
